@@ -1,0 +1,20 @@
+body {
+  background-color: #282c34;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  background-image: url('https://gmedia.playstation.com/is/image/SIEPDC/playstation-wallpapers_ghost-of-tsushima-keyart-4K-01-ps4-26jun20-en-us?$1600px$');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+}

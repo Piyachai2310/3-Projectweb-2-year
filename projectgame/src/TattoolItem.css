@@ -1,0 +1,22 @@
+
+
+.tattoo-item {
+  width: 40%;
+  margin: 10px;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2rem;
+  overflow: hidden;
+}
+
+.tattoo-item img {
+  width: 100%;
+  height: 200px;
+}
+
+.tattoo-item .title {
+  font-size: 18px;
+}
